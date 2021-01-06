@@ -125,7 +125,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"enterSceneUrl",
+                 "name":"exitSceneUrl",
                  "type":"string",
                  "value":"https:\/\/lopanas.github.io\/lomapas\/carlos.json"
                 }],
