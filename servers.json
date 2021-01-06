@@ -36,7 +36,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/orloxx.github.io\/remote-chaos-map\/map.json#start-servers"
+                 "value":"https:\/\/lopanas.github.io\/lomapas\/iker.json#start-servers"
                 }],
          "type":"tilelayer",
          "visible":true,
