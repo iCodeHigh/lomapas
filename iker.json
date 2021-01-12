@@ -37,6 +37,11 @@
                  "name":"exitSceneUrl",
                  "type":"string",
                  "value":"https:\/\/lopanas.github.io\/lomapas\/street.json#start-iker"
+                }, 
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/lopanas.github.io\/lomapas\/street.json#start-iker"
                 }],
          "type":"tilelayer",
          "visible":true,
